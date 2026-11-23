@@ -1,0 +1,6 @@
+{
+  "name": "CPUMiner Command Center",
+  "description": "Pooler CPuminer release viewer, configuration generator, and AI mining operations dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
